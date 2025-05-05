@@ -24,3 +24,8 @@ $ ./ece650-a4-kissat
 ```
 
 Input graph into command line to see output of vertex cover.
+
+# Project Languages
+
+- C++
+- Python
