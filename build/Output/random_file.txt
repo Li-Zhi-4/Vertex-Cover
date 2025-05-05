@@ -1,0 +1,8 @@
+5
+VC-GREEDY-1: 1 2 (2)
+Execution time: 931
+VC-GREEDY-2: 1 2 (2)
+Execution time: 750
+VC-EXACT: 1 2 (2)
+Execution time: 3441
+
